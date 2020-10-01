@@ -21,7 +21,7 @@
     background-color: #f0c14b;
     border-color: 1px solid #a88734;
     width: 200px;
-    height: 25px;
+    line-height: 25px;
     border-radius: 5px;
     cursor: pointer;
 }
